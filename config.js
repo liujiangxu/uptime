@@ -13,24 +13,24 @@ window.Config = {
   ],
 
   // 日志天数
-  CountDays: 60,
+  CountDays: 90,
 
   // 是否显示检测站点的链接
   ShowLink: true,
 
   // 导航栏菜单
   Navi: [
-    {
-      text: '主页',
-      url: 'https://liujiangxu.us.kg/'
-    },    
-    {
-      text: 'GitHub',
-      url: 'https://github.com/shaoyouvip/uptime/'
-    },
-    {
-      text: '博客',
-      url: 'https://blog.aizrf.COM/'
-    },
+      //{
+      //  text: '主页',
+       // url: 'https://liujiangxu.us.kg/'
+     // },    
+     // {
+     //   text: 'GitHub',
+     //   url: 'https://github.com/shaoyouvip/uptime/'
+     // },
+     // {
+     //   text: '博客',
+     //   url: 'https://blog.aizrf.COM/'
+     // },
   ],
 };
